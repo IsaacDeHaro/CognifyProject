@@ -4,7 +4,7 @@ Cognify es un sistema de rehabilitación acelerada basado en recuerdos artificia
 ### Cómo ejecutar el proyecto
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/IsaacDeHaro/CognifyProject
    cd CognifyProject
    ```
 2. Compila y ejecuta:
