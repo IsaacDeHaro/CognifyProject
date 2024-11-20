@@ -1,0 +1,14 @@
+C:\Users\ISAAC\Desktop\Otros\Universidad\CognifyProject\CognifyProject\bin\Debug\net7.0\CognifyProject.exe
+C:\Users\ISAAC\Desktop\Otros\Universidad\CognifyProject\CognifyProject\bin\Debug\net7.0\CognifyProject.deps.json
+C:\Users\ISAAC\Desktop\Otros\Universidad\CognifyProject\CognifyProject\bin\Debug\net7.0\CognifyProject.runtimeconfig.json
+C:\Users\ISAAC\Desktop\Otros\Universidad\CognifyProject\CognifyProject\bin\Debug\net7.0\CognifyProject.dll
+C:\Users\ISAAC\Desktop\Otros\Universidad\CognifyProject\CognifyProject\bin\Debug\net7.0\CognifyProject.pdb
+C:\Users\ISAAC\Desktop\Otros\Universidad\CognifyProject\CognifyProject\obj\Debug\net7.0\CognifyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISAAC\Desktop\Otros\Universidad\CognifyProject\CognifyProject\obj\Debug\net7.0\CognifyProject.AssemblyInfoInputs.cache
+C:\Users\ISAAC\Desktop\Otros\Universidad\CognifyProject\CognifyProject\obj\Debug\net7.0\CognifyProject.AssemblyInfo.cs
+C:\Users\ISAAC\Desktop\Otros\Universidad\CognifyProject\CognifyProject\obj\Debug\net7.0\CognifyProject.csproj.CoreCompileInputs.cache
+C:\Users\ISAAC\Desktop\Otros\Universidad\CognifyProject\CognifyProject\obj\Debug\net7.0\CognifyProject.dll
+C:\Users\ISAAC\Desktop\Otros\Universidad\CognifyProject\CognifyProject\obj\Debug\net7.0\refint\CognifyProject.dll
+C:\Users\ISAAC\Desktop\Otros\Universidad\CognifyProject\CognifyProject\obj\Debug\net7.0\CognifyProject.pdb
+C:\Users\ISAAC\Desktop\Otros\Universidad\CognifyProject\CognifyProject\obj\Debug\net7.0\CognifyProject.genruntimeconfig.cache
+C:\Users\ISAAC\Desktop\Otros\Universidad\CognifyProject\CognifyProject\obj\Debug\net7.0\ref\CognifyProject.dll
