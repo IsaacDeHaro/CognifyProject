@@ -86,3 +86,8 @@ Los siguientes diagramas UML describen la arquitectura y el flujo del sistema Co
 ### **Conclusión del Análisis**
 
 Cognify tiene un impacto transformador en el sistema penal y la sociedad, con ventajas técnicas que garantizan su escalabilidad y adaptabilidad. Sin embargo, también plantea desafíos éticos y técnicos que deberán ser abordados antes de su implementación en un entorno real.
+
+---
+
+## Video de Demostración
+Puedes ver el video de demostración del sistema aquí: [Ver Video](https://www.loom.com/share/30d842eb877844c586e8b2dbd5fb3845?sid=10b6d11b-38ee-4132-a6a4-d97c11ef5aad)
