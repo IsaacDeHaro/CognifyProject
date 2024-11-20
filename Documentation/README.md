@@ -1,3 +1,18 @@
+## Documentación Técnica
+
+Los siguientes diagramas UML describen la arquitectura y el flujo del sistema Cognify:
+
+### 1. Diagrama de Clases
+![Diagrama de Clases](Documentation/UML/Cognify_Diagrama_Clases.png)
+
+### 2. Diagrama de Secuencia
+![Diagrama de Secuencia](Documentation/UML/Cognify_Diagrama_Secuencia.png)
+
+### 3. Diagrama de Casos de Uso
+![Diagrama de Casos de Uso](Documentation/UML/Cognify_Diagrama_Casos_De_Uso.png)
+
+---
+
 ### **Análisis del Impacto Social y Técnico del Sistema Cognify**
 
 ---
