@@ -41,6 +41,33 @@
 
 ---
 
+#### **Pruebas y Resultados Simulados**
+
+1. **Descripción del Propósito**
+   - Esta sección presenta los resultados de las simulaciones realizadas con el sistema Cognify. Se incluyen escenarios que abarcan distintos tipos de crímenes, métodos elegidos y niveles de arrepentimiento generados durante la simulación.
+
+2. **Tabla de Resultados Simulados**
+
+   ```markdown
+   | Criminal | Crimen       | Método Elegido         | Nivel de Arrepentimiento (%) | Resultado Simulación                      |
+   |----------|--------------|------------------------|-----------------------------|-------------------------------------------|
+   | Juan     | Violento     | Rehabilitación         | 84                          | Listo para reintegrarse a la sociedad      |
+   | María    | Financiero   | Sentencia Tradicional  | N/A                         | Cumplirá su condena tradicional           |
+   | Luis     | De Odio      | Rehabilitación         | 92                          | Listo para reintegrarse a la sociedad      |
+   | Ana      | Violento     | Rehabilitación         | 75                          | Requiere más sesiones de rehabilitación   |
+   | Pedro    | Financiero   | Rehabilitación         | 68                          | Requiere más sesiones de rehabilitación   |
+   ```
+
+3. **Análisis de Resultados**
+     - Criminales con niveles de arrepentimiento superiores al 80% están listos para reintegrarse.
+     - Criminales con niveles menores a 80% requieren más sesiones de rehabilitación.
+     - Los criminales que optaron por sentencias tradicionales no generan niveles de arrepentimiento.
+
+4. **Conclusión de la Simulación**
+     > Las pruebas demuestran que el sistema Cognify puede identificar el impacto emocional de los recuerdos implantados y determinar si un criminal está listo para reintegrarse a la sociedad. Además, se evidenció que los niveles de arrepentimiento son variables dependiendo del tipo de crimen y método elegido.
+
+---
+
 ### **Conclusión del Análisis**
 
 Cognify tiene un impacto transformador en el sistema penal y la sociedad, con ventajas técnicas que garantizan su escalabilidad y adaptabilidad. Sin embargo, también plantea desafíos éticos y técnicos que deberán ser abordados antes de su implementación en un entorno real.
